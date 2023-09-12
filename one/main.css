@@ -11,3 +11,12 @@ h3 {
 h2 {
     color: orange;
 }
+a{
+  color: red;
+}
+a:visited{
+  color: red;
+}
+a:hover, a:active{
+  color: red
+}
